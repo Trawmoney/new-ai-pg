@@ -1,0 +1,5 @@
+OPENROUTER_REFERRER = "https://github.com/Trawmoney/new-ai-pg"
+OPENROUTER_BASE = "https://openrouter.ai"
+OPENROUTER_API_BASE = f"{OPENROUTER_BASE}/api/v1"
+OPENROUTER_DEFAULT_CHAT_MODEL = "open-orca/mistral-7b-openorca"
+OPENROUTER_DEFAULT_INSTRUCT_MODEL = "mistralai/mistral-7b-instruct"
